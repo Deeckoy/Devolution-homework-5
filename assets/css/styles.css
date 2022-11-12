@@ -52,6 +52,14 @@
   height: 30%;
 }
 
+.max500 {
+max-width: 500px;
+}
+
+.min500 {
+min-width: 500px;
+}
+
 .input {
   height: 40px;
 
